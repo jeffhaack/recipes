@@ -4,7 +4,7 @@ category: recipes
 permalink: /ranch-dressing
 title: Ranch Dressing
 mine: no
-thumbnail: /assets/thumbs/names_georgia_blog_thumb.png
+thumbnail: /images/ranch-dressing-thumb.jpg
 ---
 
 {{ page.title }}

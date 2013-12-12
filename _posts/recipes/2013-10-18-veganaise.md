@@ -4,7 +4,7 @@ category: recipes
 permalink: /veganaise
 title: Veganaise
 mine: no
-thumbnail: /assets/thumbs/names_georgia_blog_thumb.png
+thumbnail: /images/veganaise-thumb.jpg
 ---
 
 {{ page.title }}

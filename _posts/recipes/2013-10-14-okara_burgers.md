@@ -4,7 +4,7 @@ category: recipes
 permalink: /okara-burgers
 title: Okara Burgers
 mine: no
-thumbnail: /assets/thumbs/names_georgia_blog_thumb.png
+thumbnail: /images/okara-burgers-thumb.jpg
 ---
 
 {{ page.title }}
