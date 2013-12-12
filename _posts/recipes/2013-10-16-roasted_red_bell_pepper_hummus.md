@@ -4,7 +4,8 @@ category: recipes
 permalink: /roasted-red-bell-pepper-hummus
 title: Roasted Red Bell Pepper Hummus
 mine: yes
-thumbnail: /assets/thumbs/names_georgia_blog_thumb.png
+thumbnail: /images/roasted-red-bell-pepper-hummus-thumb.jpg
+header: /images/roasted-red-bell-pepper-hummus-large.jpg
 ---
 
 {{ page.title }}
