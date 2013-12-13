@@ -4,7 +4,7 @@ category: recipes
 permalink: /balsamic-maple-tempeh
 title: Balsamic Maple Tempeh
 mine: no
-thumbnail: /assets/thumbs/names_georgia_blog_thumb.png
+thumbnail: /images/no-photo.jpg
 ---
 
 {{ page.title }}

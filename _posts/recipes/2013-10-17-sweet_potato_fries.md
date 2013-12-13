@@ -4,7 +4,7 @@ category: recipes
 permalink: /sweet-potato-fries
 title: Sweet Potato Fries
 mine: yes
-thumbnail: /assets/thumbs/names_georgia_blog_thumb.png
+thumbnail: /images/no-photo.jpg
 ---
 
 {{ page.title }}

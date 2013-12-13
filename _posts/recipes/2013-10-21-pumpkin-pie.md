@@ -4,7 +4,7 @@ category: recipes
 permalink: /pumpkin-pie
 title: Pumpkin Pie
 mine: no
-thumbnail: /images/pumpkin-pie-thumb.jpg
+thumbnail: /images/no-photo.jpg
 ---
 
 {{ page.title }}

@@ -4,7 +4,7 @@ category: recipes
 permalink: /how-to-dehull-soybeans
 title: How to Dehull Soybeans
 mine: yes
-thumbnail: /assets/thumbs/names_georgia_blog_thumb.png
+thumbnail: /images/no-photo.jpg
 ---
 
 {{ page.title }}
