@@ -1,4 +1,0 @@
-pygments: true
-markdown: rdiscount
-permalink: /:categories/:title/
-baseurl: ''
