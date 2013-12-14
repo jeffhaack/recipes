@@ -4,7 +4,7 @@ category: recipes
 permalink: /how-to-make-tempeh
 title: How to Make Tempeh
 mine: no
-thumbnail: /images/no-photo.jpg
+thumbnail: /images/tempeh-thumb.jpg
 ---
 
 {{ page.title }}
