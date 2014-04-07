@@ -1,4 +1,3 @@
-
 ---
 layout: recipe
 category: recipes
