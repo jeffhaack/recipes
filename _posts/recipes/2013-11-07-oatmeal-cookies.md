@@ -4,7 +4,7 @@ category: recipes
 permalink: /oatmeal-cookies
 title: Oatmeal Cookies
 mine: no
-thumbnail: /images/no-photo.jpg
+thumbnail: /images/oatmeal-cookies-thumb.jpg
 ---
 
 {{ page.title }}
